@@ -1,0 +1,11 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: E4A1-C07F
+
+ Directorio de C:\Users\Administrador\PROVA\bloc1-examen-ud1-a-ud4-i-KALIKOTEIRO\EXAMEN\src
+
+20/11/2024  18:15    <DIR>          .
+20/11/2024  18:14    <DIR>          ..
+20/11/2024  18:15                 0 a
+20/11/2024  18:14    <DIR>          examen
+               1 archivos              0 bytes
+               3 dirs  388.092.821.504 bytes libres
